@@ -1,2 +1,2 @@
-# LCDdisplayarduino
-all my arduino projects
+# Arduino
+All My Arduino Projects
